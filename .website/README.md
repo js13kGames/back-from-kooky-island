@@ -1,4 +1,7 @@
 ---
+genres:
+  - adventure
+  - platformer
 post: https://medium.com/@alexc73/i-made-a-video-game-on-my-journey-to-work-8e1bf2dfd208
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
